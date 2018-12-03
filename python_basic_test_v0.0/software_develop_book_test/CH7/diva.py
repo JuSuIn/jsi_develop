@@ -1,0 +1,10 @@
+#%%writefile diva.py
+# -*- coding: utf-8 -*-
+class Singer:
+    def __init__(self,name="Miku"):
+        self.name = name
+
+    def song(title="No name"):
+        print("Sing the ", title)
+
+        
